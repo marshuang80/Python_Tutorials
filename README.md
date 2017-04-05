@@ -1,11 +1,11 @@
 # Introduction to python for data science and machine learning
-This repository contains some basic python tutorials, tailored specifically for people interested in data science, analytics and machine learning. The tutorials uses the Jupyter notebooks, so students can follow along the examples, and work on the exercises. The contents are beginer level, so people without any programming background will find it easy to follow. 
+This repository contains some basic python tutorials, tailored specifically for people interested in data science, analytics and machine learning. The tutorials uses the Jupyter notebooks, so students can follow along the examples, and work on the exercises. The contents are beginner level, so no programming knowledge is nesssary. 
 
 ## Installation Requirements
 Please make sure you have python installed on your system. The **Anaconda** data science platform is highly recommended:
 **https://www.continuum.io/downloads**
 
-## Using the tutorial
+## Using the tutorials locally
 You will first have to clone the tutorials to your local directory from your terminal: 
 ```
 $ git clone https://github.com/marshuang80/Python_workshop.git
@@ -15,5 +15,8 @@ To open the tutorials, you will need to either open the **jupyter notebook** fro
 ```
 $ jupyter notebook
 ```
+## Using the without downloading
+You can also choose to use the tutorials online with your internet browser with the button below
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/marshuang80/python_tutorials)
 
 **UBIC@UCSD**

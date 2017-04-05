@@ -16,7 +16,8 @@ To open the tutorials, you will need to either open the **jupyter notebook** fro
 $ jupyter notebook
 ```
 ## Using the without downloading
-You can also choose to use the tutorials online with your internet browser with the button below
+You can also choose to use the tutorials online with your internet browser with the button below \n
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/marshuang80/python_tutorials)
+Note that your code **will not be saved** using Binder
 
 **UBIC@UCSD**

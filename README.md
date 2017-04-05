@@ -10,12 +10,12 @@ You will first have to clone the tutorials to your local directory from your ter
 ```
 $ git clone https://github.com/marshuang80/Python_workshop.git
 ```
-You can also choose to download the repository directly from **github**. Please find the *Clone or Download* button above.<br />
+You can also choose to download the repository directly from **github**. Please find the *Clone or Download* button above.
 To open the tutorials, you will need to either open the **jupyter notebook** from the **anaconda navigator**, or use your terminal: 
 ```
 $ jupyter notebook
 ```
-## Using the without downloading
+## Using the tutorials without downloading
 You can also choose to use the tutorials online with your internet browser with the button below <br />
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/marshuang80/python_tutorials)<br />
 Note that your code **will not be saved** using Binder

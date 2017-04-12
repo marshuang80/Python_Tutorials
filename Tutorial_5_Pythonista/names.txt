@@ -1,0 +1,4 @@
+Yann LeCun
+Geoffrey Hinton
+Andrew Ng
+Ian Goodfellow
